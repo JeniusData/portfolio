@@ -25,18 +25,17 @@ I help learners and stakeholders translate complex data into clear reports and d
 **Financial Performance Analysis.**
 ![image](Financial Sales Dashboard.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
+[Read More]()
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Adiddas **
+**Adidas Sales Performance Analysis (2020–2022).**
+This project analyzes Adidas’ sales performance from 2020 to 2022 using Microsoft Excel to uncover trends in revenue, profitability, product performance, sales channels, retailers, and regional contribution.
 
 ![image](Adiddas Dashboard.png)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+<a href="Adidas_Sales_Dashboard_Report.pdf ">Download the Report here (pdf file)</a>
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More]()
 
 **Bay Sales.**
 
