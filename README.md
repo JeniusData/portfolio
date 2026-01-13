@@ -18,7 +18,7 @@ I work with data to clean, transform, analyze, and visualize insights that suppo
 I help learners and stakeholders translate complex data into clear reports and dashboards that drive actionable, data-driven decisions.
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS
 
 *A glimpse of some of the projects I've been working on.*
 
@@ -54,15 +54,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:ekpitejennifer@gmail.com">ekpitejennifer@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 706-539-7274</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Akure, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -70,11 +70,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="[https://linkedin.com/in/etukanietie](https://www.linkedin.com/in/ekpite-jennifer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.facebook.com/share/17oVXiApUW/">Watch my tutorials on Facebook</a></td>
     </tr>
   </tbody>
 </table>
@@ -84,4 +84,3 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 
 
-Displaying Raw File by Anietie Etuk.txt.
