@@ -32,7 +32,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 **Adiddas **
 
-![image](2 Adiddas Dashboard.png)
+![image](Adiddas Dashboard.png)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
@@ -40,7 +40,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 **Bay Sales.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](Bay Sales Dashboard.png)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
@@ -70,7 +70,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="[https://linkedin.com/in/etukanietie](https://www.linkedin.com/in/ekpite-jennifer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/ekpite-jennifer">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
