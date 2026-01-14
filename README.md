@@ -37,13 +37,13 @@ This project analyzes Adidas’ sales performance from 2020 to 2022 using Micros
 
 [Read More]()
 
-**Bay Sales.**
+**Bay Sales Performance Analysis (2017–2020).**
 
 ![image](Bay Sales Dashboard.png)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+ This analysis transforms Bay’s historical sales data from 2017 to 2020 into a clear, visual, and actionable dashboard, enabling leadership to understand performance trends, identify key revenue drivers, and make informed strategic decisions.
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+<a href="Bay Sales Analysis.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
