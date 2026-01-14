@@ -20,13 +20,16 @@ I help learners and stakeholders translate complex data into clear reports and d
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 
-*A glimpse of some of the projects I've been working on.*
+*A glimpse of some of the projects I've worked on.*
 
 **Financial Performance Analysis.**
+Every successful business — whether it’s Amazon, Dangote Group, or a fast-growing startup — survives on one key ability:
+👉 understanding its numbers and acting on them at the right time. This analysis uncovers sales performance, profitability trends, product impact, and regional contribution — helping decision-makers move from guesswork to data-driven strategy.
+
 ![image](Financial Sales Dashboard.png)
 
-
-[Read More]()
+<a href="Financial Analysis.pdf">Download the Report here (pdf file)</a>
+<!---[Read More]()--->
 
 **Adidas Sales Performance Analysis (2020–2022).**
 This project analyzes Adidas’ sales performance from 2020 to 2022 using Microsoft Excel to uncover trends in revenue, profitability, product performance, sales channels, retailers, and regional contribution.
@@ -35,13 +38,10 @@ This project analyzes Adidas’ sales performance from 2020 to 2022 using Micros
 
 <a href="Adidas_Sales_Dashboard_Report.pdf ">Download the Report here (pdf file)</a>
 
-[Read More]()
-
 **Bay Sales Performance Analysis (2017–2020).**
-
-![image](Bay Sales Dashboard.png)
-
  This analysis transforms Bay’s historical sales data from 2017 to 2020 into a clear, visual, and actionable dashboard, enabling leadership to understand performance trends, identify key revenue drivers, and make informed strategic decisions.
+ 
+![image](Bay Sales Dashboard.png)
 
 <a href="Bay Sales Analysis.pdf">Download the Report here (pdf file)</a>
 
@@ -73,7 +73,7 @@ This project analyzes Adidas’ sales performance from 2020 to 2022 using Micros
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.facebook.com/share/17oVXiApUW/">Watch my tutorials on Facebook</a></td>
+      <td><a href="https://www.facebook.com/share/17oVXiApUW/">Connect with me on Facebook</a></td>
     </tr>
   </tbody>
 </table>
