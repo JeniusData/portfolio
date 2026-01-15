@@ -83,7 +83,7 @@ aimed at fostering equality and encouraging educational opportunities. By blendi
 
 ![image](Shala Marketing Dashboard.png)
 
-<a href="Sharla Marketing.pdff">Download the Report here (pdf file)</a>
+<a href="Sharla Marketing.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
